@@ -1,0 +1,76 @@
+.popupWindow {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    cursor:pointer;
+    top: 28vh;
+    left: 42vw;
+    background-color: white;
+    color: black;
+    width: 220px;
+    height: 300px;
+    border-radius: 10px;
+    
+    /* visibility: hidden; */
+}
+.popupWindow .header{
+    position: relative;
+    background-size:cover;
+    width: auto;
+    height: 50%;
+    border-radius: 10px 10px 0 0;
+}
+.footer{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px 0 0 10px;
+    padding-right: 10px;
+}
+.popupTitle .popupText{
+    font-size: 15px;
+    font-weight: bold;
+}
+.popupTitle .popupCity{
+    padding-top: 5px;
+    font-size: 12px;
+    color: rgb(185, 184, 184);
+}
+.popupIcon{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    left: 10px;
+    top: 15px;
+}
+#cross{
+    position: absolute;
+    top: 15px;
+    right: 10px;
+    width: 30px;
+    height: 30px;
+    background-image: url('./images/cross.png');
+    background-size: cover;
+
+}
+.popupWindowText{
+    font-size: 0.7em;
+    margin-top: 3px;
+    text-align: justify;
+}
+.popupWindow .show{
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s
+}
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}

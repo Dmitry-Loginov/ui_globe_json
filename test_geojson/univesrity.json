@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { },
+      "geometry": {
+        "name": "Оксордский университет",
+        "image" : "oxford.jpg",
+        "popupIcon" : "england.png",
+        "reference" : "./oxford.html",
+        "type": "Point",
+        "coordinates": [
+          -1.2581384181976318,
+          51.759101415216016
+        ],
+        "popupCity" : "Оксфорд",
+        "popupWindowText" : "К услугам студентов больше 300 кружков по интересам. Большое внимание в Оксфорде уделяется спорту, как престижному и полезному виду отдыха."
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "name": "Университет в Кембридже, Англия",
+        "image" : "kembridg.jpg",
+        "popupIcon" : "england.png",
+        "reference" : "./cembridgeEnagland.html",
+        "type": "Point",
+        "coordinates": [
+          0.11547446250915526,
+          52.202619518122084
+        ],
+        "popupCity" : "Кембридж",
+        "popupWindowText" : "Кембриджский университет имеет более 100 библиотек. Одна только центральная библиотека насчитывает около 8 миллионов томов."
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "name":"Стенфордский университет",
+        "image" : "stenford.jpg",
+        "popupIcon" : "calif.png",
+        "reference" : "./stenford.html",
+        "type": "Point",
+        "coordinates": [
+          -122.17032909393312,
+          37.42751882891649
+        ],
+        "popupCity" : "Пало-Алто",
+        "popupWindowText" : "Многие выпускники основали свои фирмы рядом с университетом, так была заложена основа Кремниевой долины — огромного региона, где располагаются крупнейшие IT-компании."
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "name":"Гарвардский университет",
+        "image" : "harward.jpg",
+        "popupIcon" : "mass.png",
+        "reference" : "./harward.html",
+        "type": "Point",
+        "coordinates": [
+          -71.10349416732788,
+          42.3367976196384
+        ],
+        "popupCity" : "Бостон",
+        "popupWindowText" : "В Гарвардском университете учился основатель компании «Майкрософт» Билл Гейтс. Получил диплом 32 года спустя после того, как бросил учебу в этом институте."
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "name":"Калифорнийский технологический институт",
+        "image" : "caltech.jpg",
+        "popupIcon" : "calif.png",
+        "reference" : "./caltech.html",
+        "type": "Point",
+        "coordinates": [
+          -118.12542915344237,
+          34.13717026779239
+        ],
+        "popupCity" : "Пасадина",
+        "popupWindowText" : "Частный исследовательский университет, основанный в 1891 г. Славится программами по инженерному делу и наукам."
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "name":"Массачусетский технологический институт",
+        "image" : "massatchusets.jpg",
+        "popupIcon" : "mass.png",
+        "reference" : "./mit.html",
+        "type": "Point",
+        "coordinates": [
+          -71.09416007995605,
+          42.358892748470986
+        ],
+        "popupCity" : "Кембридж, Америка",
+        "popupWindowText" : "Частный исследовательский университет, основанный в 1891 г. Славится программами по инженерному делу и наукам. "
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "name": "Калифорнийский университет",
+        "image" : "calberkli.jpg",
+        "popupIcon" : "calif.png",
+        "reference" : "./californ.html",
+        "type": "Point",
+        "coordinates": [
+          -122.25858986377715,
+          37.87203533128728
+        ],
+        "popupCity" : "Беркли",
+        "popupWindowText" : "Калифорнийский университет Беркли является старейшим вузом штата Калифорния, именно здесь были открыты многие химические элементы и сделаны важные научные открытия"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "name": "Йельский университет",
+        "image" : "yale.jpg",
+        "popupIcon" : "connecticut.png",
+        "reference" : "./yale.html",
+        "type": "Point",
+        "coordinates": [
+          -72.92235776782036,
+          41.3164003679006
+        ],
+        "popupCity" : "Нью-Хейвен",
+        "popupWindowText" : "Входит в Лигу Плюща (ассоциацию 8 лучших вузов Америки), а также в “Большую тройку” лучших университетов США."
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { },
+      "geometry": {
+        "name": "Пристонский университет",
+        "image" : "pricenton.jpg",
+        "popupIcon" : "newJersi.jpg",
+        "reference" : "./pricestone.html",
+        "type": "Point",
+        "coordinates": [
+          -74.6552324295044,
+          40.34306067027912
+        ],
+        "popupCity" : "Нью-Джерси",
+        "popupWindowText" : "На первом курсе обучения студенты вуза клянутся следовать Кодексу чести. Этот свод правил, например, запрещает списывать. Бывает, что преподаватели не присутствуют на экзаменах, и редко какой студент отважится нарушить кодекс."
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": { },
+      "geometry": {
+        "name": "Университет в Чикаго",
+        "image" : "chikago.jpg",
+        "popupIcon" : "illinoys.jpg",
+        "reference" : "./chikago.html",
+        "type": "Point",
+        "coordinates": [
+          -87.59963750839232,
+          41.79081678328433
+        ],
+        "popupCity" : "Чикаго",
+        "popupWindowText" : "С 1992 по 2004 год в университете преподавал Барак Обама. Кстати, долгое время - с 2005 по 2014 год - поваром Барака Обамы и Белого дома служил Сэм Касс, получивший степень бакалавра в Чикагском университете."
+      }
+    }
+  ]
+}
